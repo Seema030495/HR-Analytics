@@ -1,6 +1,6 @@
 # HR-Analytics
 
-#Introduction:
+**Introduction**
 
 This Project aims to analyze and recognize patterns and trends in HR data records for an organization, including employee job history, performance evaluations, compensation etc. By examining this data, the objective is to gain insights into the organization’s human capital management practices, identify areas for improvement, and optimize overall performance. The analysis will involve using various methods, such as data visualization techniques and preprocessing analysis to identify patterns and trends. The results will help to drive better decision-making regarding talent management, employee engagement, and organizational performance.
 
